@@ -2,6 +2,8 @@
 - 👀 I’m interested in web dovelopement
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects based on MERN stack
+- Portfolio: https://vikas2295998.github.io/Portfolio/
+- Leetcode: https://leetcode.com/vikas_2295998/
 - Email: vikassaraimeer1999@gmail.com
 - LinkedIn: vikas2295
 
